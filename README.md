@@ -1,5 +1,5 @@
 # Energy-Management-system
-#Project Overview
+Project Overview: 
 The Energy Management System (EMS) is a comprehensive solution designed to monitor, control, and optimize energy consumption within an organization or a household. The system aims to reduce energy costs, improve energy efficiency, and contribute to sustainable energy usage. By leveraging advanced data analytics, real-time monitoring, and automated control mechanisms, the EMS provides users with detailed insights and actionable recommendations to manage their energy consumption effectively.
 
 Features
